@@ -1,5 +1,6 @@
 
-# Rudi (based on Augmentor an PIL)
+# Rudi
+`(based on Augmentor an PIL)`
 
 If you want to train a CNN, the custom dataset must be a collection of images of the same aspect ratio, extension, etc.
 This script is gonna do that for you. Rudi is a command line tool for converting and augmenting your dataset of images.
